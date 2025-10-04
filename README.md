@@ -1,18 +1,35 @@
-Hello, my name is Hoang Ngoc Hoa.
-I am currently a student of Multimedia Technology at the Institute of Posts and Telecommunications Technology.
+# 👋 Hi there! I'm Hoàng Ngọc Hòa  
 
-🔹 Interests:
-- Web and mobile application development
-- AI and Machine Learning
+🎓 **Student | Multimedia Technology**  
+📍 *Institute of Posts and Telecommunications Technology (PTIT), Vietnam*  
 
-🔹 Skills:
-- Programming languages: html, css JavaScript, C++, SQL
-- Tools: Git, Visual Studio Code, Jira, MySQL
-- Development process: Agile - Scrum, Waterfall
+---
 
-🔹 Goals:
-- Become a professional software engineer
-- Contribute to real software projects
-- Continuously learn about new technologies and trends in the IT industry
+## 💡 About Me
+I’m passionate about technology and creativity — especially in **web development**, **mobile applications**, and **AI/Machine Learning**.  
+I love turning ideas into functional digital products and continuously improving my technical skills.
 
-Thank you for reading my introduction.
+---
+
+## 🧠 Skills & Tools
+- **Programming Languages:** HTML, CSS, JavaScript, C++, SQL  
+- **Tools & Platforms:** Git, Visual Studio Code, Jira, MySQL  
+- **Development Process:** Agile (Scrum), Waterfall  
+
+---
+
+## 🚀 Goals
+- Become a **professional software engineer** capable of building impactful products.  
+- Contribute to **real-world software projects** and open-source communities.  
+- Continuously **learn new technologies** and stay up-to-date with IT trends.  
+
+---
+
+## 🌐 Connect with Me
+- 💼 **GitHub:**   
+- ✉️ **Email:** n23dcpt022@student.ptithcm.edu.vn 
+
+---
+
+> “Keep learning, keep building, and never stop creating.”
+
