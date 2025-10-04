@@ -26,7 +26,7 @@ I love turning ideas into functional digital products and continuously improving
 ---
 
 ## 🌐 Connect with Me
-- 💼 **GitHub:**   
+- 💼 **GitHub:** https://github.com/b3hoangngochoa-bot
 - ✉️ **Email:** n23dcpt022@student.ptithcm.edu.vn 
 
 ---
